@@ -9,9 +9,12 @@ Moim celem jest pisanie czystego, łatwego w utrzymaniu kodu, z wykorzystaniem n
 
 Zapraszam do śledzenia moich postępów!
 
+patrz tutaj: http://greekthedev.click/ (wciąż czekam na ssl)
+
 ---
 
 **1 Week 1 Project**
+
 Hello! I'm a frontend developer constantly growing and seeking new challenges. As part of the "1 Week 1 Project," I will be trying my hand as a fullstack developer, implementing various ideas within one week.
 
 The projects will cover a wide range of applications, from simple notebooks and to-do lists to more advanced e-commerce stores and classifieds portals (e.g., with rental and sale offers for apartments).
@@ -19,3 +22,5 @@ The projects will cover a wide range of applications, from simple notebooks and 
 My goal is to write clean, maintainable code, using the latest techniques and best UX practices. I want each project to be not only functional but also intuitive and enjoyable to use.
 
 Feel free to follow my progress!
+
+see here: http://greekthedev.click/ (still waiting for ssl)
