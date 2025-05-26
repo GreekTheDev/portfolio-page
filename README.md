@@ -9,7 +9,7 @@ Moim celem jest pisanie czystego, łatwego w utrzymaniu kodu, z wykorzystaniem n
 
 Zapraszam do śledzenia moich postępów!
 
-patrz tutaj: http://greekthedev.click/ (wciąż czekam na ssl)
+patrz tutaj: https://greekthedev.click/
 
 ---
 
@@ -23,4 +23,4 @@ My goal is to write clean, maintainable code, using the latest techniques and be
 
 Feel free to follow my progress!
 
-see here: http://greekthedev.click/ (still waiting for ssl)
+see here: https://greekthedev.click/
