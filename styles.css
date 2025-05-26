@@ -297,6 +297,7 @@ html[data-theme="dark"] .hero {
     height: 250px;
     background-color: var(--card-background);
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     text-align: center;
@@ -306,6 +307,28 @@ html[data-theme="dark"] .hero {
 
 .project-placeholder p {
     font-size: 1.1rem;
+}
+
+/* ToDo App Project Card */
+.todo-project .project-placeholder {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.todo-project h3 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.todo-project p {
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.project-link {
+    display: block;
+    height: 100%;
+    width: 100%;
 }
 
 /* Stopka */
